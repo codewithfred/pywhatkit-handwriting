@@ -1,4 +1,3 @@
-from typing import final
 import pywhatkit
 
 ## Menggunakan variable untuk menulis string jadi tulisan tangan
